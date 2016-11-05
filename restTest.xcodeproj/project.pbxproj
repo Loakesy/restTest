@@ -10,6 +10,7 @@
 		8D44A48B1DCDACED00CAF8CB /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 8D44A4881DCDACED00CAF8CB /* index.html */; };
 		8D44A48C1DCDACED00CAF8CB /* myapi.js in Resources */ = {isa = PBXBuildFile; fileRef = 8D44A4891DCDACED00CAF8CB /* myapi.js */; };
 		8D44A48D1DCDACED00CAF8CB /* myclient.js in Resources */ = {isa = PBXBuildFile; fileRef = 8D44A48A1DCDACED00CAF8CB /* myclient.js */; };
+		8D44A48F1DCDC1EA00CAF8CB /* read_analog.js in Resources */ = {isa = PBXBuildFile; fileRef = 8D44A48E1DCDC1EA00CAF8CB /* read_analog.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8D44A4881DCDACED00CAF8CB /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		8D44A4891DCDACED00CAF8CB /* myapi.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = myapi.js; sourceTree = "<group>"; };
 		8D44A48A1DCDACED00CAF8CB /* myclient.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = myclient.js; sourceTree = "<group>"; };
+		8D44A48E1DCDC1EA00CAF8CB /* read_analog.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = read_analog.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				8D44A4881DCDACED00CAF8CB /* index.html */,
 				8D44A4891DCDACED00CAF8CB /* myapi.js */,
 				8D44A48A1DCDACED00CAF8CB /* myclient.js */,
+				8D44A48E1DCDC1EA00CAF8CB /* read_analog.js */,
 			);
 			sourceTree = "<group>";
 		};
@@ -184,6 +187,7 @@
 			files = (
 				8D44A48B1DCDACED00CAF8CB /* index.html in Resources */,
 				8D44A48D1DCDACED00CAF8CB /* myclient.js in Resources */,
+				8D44A48F1DCDC1EA00CAF8CB /* read_analog.js in Resources */,
 				8D44A48C1DCDACED00CAF8CB /* myapi.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
